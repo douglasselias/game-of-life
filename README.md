@@ -2,4 +2,7 @@
 
 `gcc -o main main.c -lraylib && ./main`
 
-https://github.com/douglasselias/game-of-life/assets/11854050/3e2412c2-716e-4534-99c5-adbb92f69597
+
+
+https://github.com/douglasselias/game-of-life/assets/11854050/cab42268-c21f-42fa-986f-c77c12e5980f
+
